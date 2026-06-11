@@ -1,0 +1,11 @@
+D:\Be_KTL\src\Be_Ktl.Domain\bin\Debug\net8.0\Be_Ktl.Domain.deps.json
+D:\Be_KTL\src\Be_Ktl.Domain\bin\Debug\net8.0\Be_Ktl.Domain.dll
+D:\Be_KTL\src\Be_Ktl.Domain\bin\Debug\net8.0\Be_Ktl.Domain.pdb
+D:\Be_KTL\src\Be_Ktl.Domain\obj\Debug\net8.0\Be_Ktl.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Be_KTL\src\Be_Ktl.Domain\obj\Debug\net8.0\Be_Ktl.Domain.AssemblyInfoInputs.cache
+D:\Be_KTL\src\Be_Ktl.Domain\obj\Debug\net8.0\Be_Ktl.Domain.AssemblyInfo.cs
+D:\Be_KTL\src\Be_Ktl.Domain\obj\Debug\net8.0\Be_Ktl.Domain.csproj.CoreCompileInputs.cache
+D:\Be_KTL\src\Be_Ktl.Domain\obj\Debug\net8.0\Be_Ktl.Domain.dll
+D:\Be_KTL\src\Be_Ktl.Domain\obj\Debug\net8.0\refint\Be_Ktl.Domain.dll
+D:\Be_KTL\src\Be_Ktl.Domain\obj\Debug\net8.0\Be_Ktl.Domain.pdb
+D:\Be_KTL\src\Be_Ktl.Domain\obj\Debug\net8.0\ref\Be_Ktl.Domain.dll

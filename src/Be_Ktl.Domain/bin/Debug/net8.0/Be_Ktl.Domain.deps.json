@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Be_Ktl.Domain/1.0.0": {
+        "runtime": {
+          "Be_Ktl.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Be_Ktl.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

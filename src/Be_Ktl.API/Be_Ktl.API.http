@@ -1,0 +1,6 @@
+@Be_Ktl.API_HostAddress = http://localhost:5208
+
+GET {{Be_Ktl.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Be_Ktl.Application/1.0.0": {
+        "dependencies": {
+          "Be_Ktl.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Be_Ktl.Application.dll": {}
+        }
+      },
+      "Be_Ktl.Domain/1.0.0": {
+        "runtime": {
+          "Be_Ktl.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Be_Ktl.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Be_Ktl.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
