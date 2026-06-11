@@ -1,4 +1,4 @@
-D:\Be_KTL\src\Be_Ktl.Infrastructure\bin\Debug\net8.0\Be_Ktl.Infrastructure.deps.json
+d:\Be_KTL\src\Be_Ktl.Infrastructure\bin\Debug\net8.0\Be_Ktl.Infrastructure.deps.json
 D:\Be_KTL\src\Be_Ktl.Infrastructure\bin\Debug\net8.0\Be_Ktl.Infrastructure.dll
 D:\Be_KTL\src\Be_Ktl.Infrastructure\bin\Debug\net8.0\Be_Ktl.Infrastructure.pdb
 D:\Be_KTL\src\Be_Ktl.Infrastructure\bin\Debug\net8.0\Be_Ktl.Application.dll
@@ -10,8 +10,11 @@ D:\Be_KTL\src\Be_Ktl.Infrastructure\obj\Debug\net8.0\Be_Ktl.Infrastructure.Gener
 D:\Be_KTL\src\Be_Ktl.Infrastructure\obj\Debug\net8.0\Be_Ktl.Infrastructure.AssemblyInfoInputs.cache
 D:\Be_KTL\src\Be_Ktl.Infrastructure\obj\Debug\net8.0\Be_Ktl.Infrastructure.AssemblyInfo.cs
 D:\Be_KTL\src\Be_Ktl.Infrastructure\obj\Debug\net8.0\Be_Ktl.Infrastructure.csproj.CoreCompileInputs.cache
-D:\Be_KTL\src\Be_Ktl.Infrastructure\obj\Debug\net8.0\Be_Ktl.I.53AF1893.Up2Date
+D:\Be_KTL\src\Be_Ktl.Infrastructure\obj\Debug\net8.0\Be_Ktl.Infrastructure.sourcelink.json
+d:\Be_KTL\src\Be_Ktl.Infrastructure\obj\Debug\net8.0\Be_Ktl.I.53AF1893.Up2Date
 D:\Be_KTL\src\Be_Ktl.Infrastructure\obj\Debug\net8.0\Be_Ktl.Infrastructure.dll
 D:\Be_KTL\src\Be_Ktl.Infrastructure\obj\Debug\net8.0\refint\Be_Ktl.Infrastructure.dll
 D:\Be_KTL\src\Be_Ktl.Infrastructure\obj\Debug\net8.0\Be_Ktl.Infrastructure.pdb
-D:\Be_KTL\src\Be_Ktl.Infrastructure\obj\Debug\net8.0\ref\Be_Ktl.Infrastructure.dll
+d:\Be_KTL\src\Be_Ktl.Infrastructure\obj\Debug\net8.0\ref\Be_Ktl.Infrastructure.dll
+D:\Be_KTL\src\Be_Ktl.Infrastructure\bin\Debug\net8.0\Be_Ktl.Infrastructure.runtimeconfig.json
+D:\Be_KTL\src\Be_Ktl.Infrastructure\obj\Debug\net8.0\Be_Ktl.Infrastructure.genruntimeconfig.cache

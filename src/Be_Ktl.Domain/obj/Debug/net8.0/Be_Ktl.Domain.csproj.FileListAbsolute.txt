@@ -5,6 +5,7 @@ D:\Be_KTL\src\Be_Ktl.Domain\obj\Debug\net8.0\Be_Ktl.Domain.GeneratedMSBuildEdito
 D:\Be_KTL\src\Be_Ktl.Domain\obj\Debug\net8.0\Be_Ktl.Domain.AssemblyInfoInputs.cache
 D:\Be_KTL\src\Be_Ktl.Domain\obj\Debug\net8.0\Be_Ktl.Domain.AssemblyInfo.cs
 D:\Be_KTL\src\Be_Ktl.Domain\obj\Debug\net8.0\Be_Ktl.Domain.csproj.CoreCompileInputs.cache
+D:\Be_KTL\src\Be_Ktl.Domain\obj\Debug\net8.0\Be_Ktl.Domain.sourcelink.json
 D:\Be_KTL\src\Be_Ktl.Domain\obj\Debug\net8.0\Be_Ktl.Domain.dll
 D:\Be_KTL\src\Be_Ktl.Domain\obj\Debug\net8.0\refint\Be_Ktl.Domain.dll
 D:\Be_KTL\src\Be_Ktl.Domain\obj\Debug\net8.0\Be_Ktl.Domain.pdb
